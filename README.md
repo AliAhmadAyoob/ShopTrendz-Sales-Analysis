@@ -61,10 +61,11 @@ The dataset **`sales_data.csv`** includes 12 months of transactions with the fol
 ## 📁 Project Structure  
 ```text
 ShopTrendz-Sales-Analysis/
+│── README.md                         # Project summary
 │── ShopTrendz_Sales_Analysis.ipynb   # Jupyter Notebook (EDA + Visuals)
 │── report.pdf                        # Project analysis report
 │── sales_data.csv                    # Dataset 
-│── README.md                         # Project summary
+
 ```
 
 ## 📌 Conclusion (Short)  
